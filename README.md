@@ -1,4 +1,4 @@
- Kenya Inflation Trend Analysis (1960 – 2024)
+ **Kenya Inflation Trend Analysis (1960 – 2024)**
  
 📌 Project Overview
 
@@ -66,10 +66,16 @@ Calculated descriptive statistics to understand inflation behaviour.
 
 Kenya has experienced multiple inflation spikes across different decades.
 
+**Sample Visualization**
+
+![Inflation Trend](visuals/inflation_trend.png)
+
+
 Inflation volatility is influenced by economic and global factors.
 
 Long-term inflation trends show improved stability in recent years.
 
 Time-series analysis provides valuable economic insights.
+
 
 
